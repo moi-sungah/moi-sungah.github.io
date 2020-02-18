@@ -55,6 +55,8 @@ description: This is first upload # 클릭후 보이는 설명
 - `<p class="text-muted">Pokemon / by iPad</p>`에 클릭 후 보여질 정보 수정
 
 ## 보이는 단점
-- 손이 많이 간다.
+- 손이 많이 간다
 
 - ex) 포트폴리오 추가시에 1. 그림 upload, 2. 그림에 맞는 마크다운 추가, 3.`portfolio_grid.html`수정해서 적절한 위치에 수정이 필요
+
+- 사진 크기에 따라 Layout이 어긋난다
