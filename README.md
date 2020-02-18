@@ -49,7 +49,7 @@ description: This is first upload # 클릭후 보이는 설명
 </div>
 '''
 - `<a href=`에 modal번호 수정
-- `<img src="img/portfolio/IMG_0114.jpg`에 img이름 수정
+- `"img/portfolio/IMG_0114.jpg`에 img이름 수정
 - `<h4>Pokemon</h4>`에 Landing page에서 보여질 제목 수정
 - `<p class="text-muted">Pokemon / by iPad</p>`에 클릭 후 보여질 정보 수정
 
