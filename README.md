@@ -25,6 +25,7 @@ modal-id: 6 # 적합한 modal번호 입력. 중복되면 안됨
 date: 2020-02-18 # 작성한 날짜 입력
 img: IMG_0114.jpg #
 project-date: Februrary 2020 
+projecturl: http://moi-sungah.github.io/img/portfolio/IMG_0114.jpg #img주소 입력
 category: Pokemon #Landing페이지에서 보일 이름
 description: This is first upload # 클릭후 보이는 설명
 ---
