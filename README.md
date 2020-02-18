@@ -18,7 +18,7 @@ Powered by Jekyll
 2. `moi-sungah.github.io/_posts/` 하위에 `<날짜>-<제목>.md`파일생성
 3. 생성된 파일에 하단항목 입력 후 commit
 
-'''
+```
 ---
 layout: default
 modal-id: 6 # 적합한 modal번호 입력. 중복되면 안됨
@@ -28,11 +28,11 @@ project-date: Februrary 2020
 category: Pokemon #Landing페이지에서 보일 이름
 description: This is first upload # 클릭후 보이는 설명
 ---
-'''
+```
 
 4. `moi-sungah.github.io/_includes/portfolio_grid.html`수정
 5. 파일에 하단항목을 적절한 위치에 입력후 commit
-'''
+```
 <div class="col-md-4 col-sm-6 portfolio-item">
     <a href="#portfolioModal6" class="portfolio-link" data-toggle="modal">
         <div class="portfolio-hover">
@@ -47,9 +47,9 @@ description: This is first upload # 클릭후 보이는 설명
         <p class="text-muted">Pokemon / by iPad</p>
     </div>
 </div>
-'''
+```
 - `<a href=`에 modal번호 수정
-- `"img/portfolio/IMG_0114.jpg`에 img이름 수정
+- `" <img src="img/portfolio/IMG_0114.jpg"`에 img이름 수정
 - `<h4>Pokemon</h4>`에 Landing page에서 보여질 제목 수정
 - `<p class="text-muted">Pokemon / by iPad</p>`에 클릭 후 보여질 정보 수정
 
