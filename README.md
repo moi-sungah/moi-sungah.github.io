@@ -60,3 +60,5 @@ description: This is first upload # 클릭후 보이는 설명
 - ex) 포트폴리오 추가시에 1. 그림 upload, 2. 그림에 맞는 마크다운 추가, 3.`portfolio_grid.html`수정해서 적절한 위치에 수정이 필요
 
 - 사진 크기에 따라 Layout이 어긋난다
+
+- 1개 사진 업데이트 시 빨리해도 8분 소요
